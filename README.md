@@ -1,4 +1,5 @@
 🚀 Installation
+-
 Get up and running in just a few minutes!
 
 1. Clone the Repository
@@ -24,31 +25,41 @@ note: you might need to set up a python environment
 5. Open the local host
 The link to the local host will be displayed in the terminal
 
-To obtain a YouTube Data API key, follow these steps:​
+Setup 
+-
+1. To obtain a YouTube Data API key, follow these steps:​
 
 ​Sign in to the Google Cloud Console.​
 
-​Create a new project:​
--
+​-Create a new project:​
+
 Click on the project dropdown at the top and select "New Project."​
 
 Enter a project name and click "Create."​
 
-​Enable the YouTube Data API v3:​
--
+-​Enable the YouTube Data API v3:​
+
 In the left sidebar, navigate to APIs & Services > Library.​
 
 Search for "YouTube Data API v3" and select it.​
 
 Click the "Enable" button.​
 
-Create API credentials:​
--
+-Create API credentials:​
+
 Go to APIs & Services > Credentials.​
 
 Click on "Create Credentials" and choose "API key."​
 
 Your new API key will appear. Copy and store it securely.​
+
+2. To obtain the Video ID follow this step:
+
+Copy the code stored after "watch?v=" in the youtube video link
+
+3. To obtain the light bulb ip I use these methods:
+
+Use a network scanner such as nmap(for pc) or fing(for mobile)
 
 
 🧠 About This Project
