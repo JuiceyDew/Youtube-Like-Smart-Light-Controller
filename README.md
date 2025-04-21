@@ -27,6 +27,7 @@ The link to the local host will be displayed in the terminal
 
 Setup 
 -
+
 1. To obtain a YouTube Data API key, follow these steps:​
 
 ​Sign in to the Google Cloud Console.​
