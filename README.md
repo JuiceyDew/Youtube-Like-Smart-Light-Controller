@@ -2,27 +2,29 @@
 Get up and running in just a few minutes!
 
 1. Clone the Repository
-'''bash
+```bash
 git clone https://github.com/JuiceyDew/Youtube-Like-Smart-Light-Controller.git
 cd Youtube-Like-Smart-Light-Controller
-
+```
 2. Install Python Dependencies
 Make sure you have Python 3 installed. Then install the required libraries:
 
-'''bash
+```bash
 pip install -r requirements.txt
-
+```
 
 4. Run the App
-'''bash
+```bash
 python app.py
+```
 note: you might need to set up a python environment
 
 ✅ Your smart light will now react in real-time to changes in the YouTube like count!
 
 5. Open the local host
 The link to the local host will be displayed in the terminal
-Y]To obtain a YouTube Data API key, follow these steps:​
+
+To obtain a YouTube Data API key, follow these steps:​
 
 ​Sign in to the Google Cloud Console.​
 
